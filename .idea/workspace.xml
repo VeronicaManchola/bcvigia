@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92a26c4a-309a-4e8e-88b7-a696941766af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,7 +84,10 @@
       <workItem from="1588080912511" duration="58000" />
       <workItem from="1588720520017" duration="9939000" />
       <workItem from="1588774190194" duration="81000" />
-      <workItem from="1588911269275" duration="1140000" />
+      <workItem from="1588911269275" duration="1172000" />
+      <workItem from="1588912498021" duration="3000" />
+      <workItem from="1588957410662" duration="32000" />
+      <workItem from="1589226695546" duration="31000" />
     </task>
     <servers />
   </component>
@@ -98,7 +99,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
